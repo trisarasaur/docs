@@ -301,7 +301,7 @@ What is happening on the last two lines?  How would you solve it?
 * Starts with letter (will not work otherwise)
 * Can have a number in it
 * ```snake_case```
-* Constants use ```Camel_Case```
+* Constants use ```CamelCase```
 
 
 !SLIDE bullets
